@@ -17,8 +17,8 @@ THEN I find that the elements follow a logical structure independent of styling 
 Y WHEN I view the image elements
 Y THEN I find accessible alt attributes
 
-WHEN I view the heading attributes
-THEN they fall in sequential order
+Y WHEN I view the heading attributes
+Y THEN they fall in sequential order
 
-WHEN I view the title element
-THEN I find a concise, descriptive title
+Y WHEN I view the title element
+Y THEN I find a concise, descriptive title

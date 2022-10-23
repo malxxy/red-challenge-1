@@ -15,6 +15,8 @@ header {
     color: #ffffff;
 }
 
+/* Element selectors for each level of header */
+
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -64,7 +66,7 @@ p {
     font-size: 16px;
 }
 
-/* Renamed "hero" to "background-image" for more descriptive class selector */
+/* Descriptive class selector - Renamed "hero" to "background-image" */
 .background-image {
     height: 800px;
     width: 100%;
@@ -72,7 +74,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover; 
     background-position: center;
-    /* Add alt text to this image */
 }
 
 .float-left {
@@ -164,6 +165,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* Condense following three sections */
 
 .search-engine-optimization img {
     max-height: 200px;
