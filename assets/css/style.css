@@ -37,7 +37,7 @@ header {
     list-style-type: none;
 }
 
-/* adjusted to inline on right side  of display */
+/* adjusted to right side  of display */
 li {
     display: inline;
     margin: 25px;
@@ -54,12 +54,13 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* Renamed "hero" to "background-image" for more descriptive class selector */
+.background-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-size: cover; 
     background-position: center;
     /* Add alt text to this image */
 }
