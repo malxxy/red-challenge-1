@@ -17,12 +17,12 @@ Header:
 ![header](assets/images/main-page.png
 
 Webpage content:
-![content](assets/images/content-page.png
+![content](./assets/images/content-page.png)
 
 Webpage with alt text shown:
-![alttext1](assets/images/alt-text-benefits.png
+![alttext1](./assets/images/alt-text-benefits.png)
 
-![alttext2](assets/images/alt-text-main.png
+![alttext2](./assets/images/alt-text-main.png)
 
 ## Credits
 
