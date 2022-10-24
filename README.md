@@ -14,7 +14,7 @@ N/A
 Index.html file and CSS style sheets control layout and aesthetics of page. This page is live at GitHub pages launched by user malxxy.
 
 Header:
-![header](assets/images/main-page.png
+![header](./assets/images/main-page.png)
 
 Webpage content:
 ![content](./assets/images/content-page.png)
