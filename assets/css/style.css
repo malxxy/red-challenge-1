@@ -38,7 +38,7 @@ h3 {
     color: #d9dcd6;
 }
 
-header div li {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -51,9 +51,9 @@ header div ul {
 }
 
 /* adjusted to right side  of display */
-li {
+header div ul li {
     display: inline-block;
-    margin: 25px;
+    margin: 15px;
     right: 10px;
 }
 
@@ -103,20 +103,20 @@ p {
     background-color: #2589bd;
 }
 
-/* Condense the following 3 class selectors */
+/* Condensed class selectors */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Condensed */
+/* Condensed class selectors */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Condensed */
+/* Condensed class selectors */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -126,7 +126,7 @@ p {
     color: #ffffff;
 }
 
-/* Condensed */
+/* Condensed class selectors */
 
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
