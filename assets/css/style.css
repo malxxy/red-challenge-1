@@ -17,9 +17,10 @@ header {
 
 /* Element selectors for each level of header */
 
-h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
+    marigin left: 20px;
 }
 
 h2 {
@@ -37,7 +38,7 @@ h3 {
     color: #d9dcd6;
 }
 
-.header div {
+header div li {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -45,15 +46,14 @@ h3 {
     font-size: 20px;
 }
 
-.header div ul {
+header div ul {
     list-style-type: none;
 }
 
 /* adjusted to right side  of display */
 li {
-    display: inline;
+    display: inline-block;
     margin: 25px;
-    position: absolute;
     right: 10px;
 }
 
@@ -104,42 +104,20 @@ p {
 }
 
 /* Condense the following 3 class selectors */
-.benefit-lead {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* Condense the following 3 class selectors? */
-.benefit-lead img {
+/* Condensed */
+.benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Condense following three sections */
-.search-engine-optimization {
+/* Condensed */
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -148,38 +126,13 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+/* Condensed */
 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Condense following three sections */
-
-.search-engine-optimization img {
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
