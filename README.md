@@ -14,22 +14,15 @@ N/A
 Index.html file and CSS style sheets control layout and aesthetics of page. This page is live at GitHub pages launched by user malxxy.
 
 Header:
-```md
-    ![header](assets/images/main-page.png
-    ```
+![header](assets/images/main-page.png
 
 Webpage content:
-```md
-    ![content](assets/images/content-page.png
-    ```
+![content](assets/images/content-page.png
 
 Webpage with alt text shown:
-```md
-    ![alt text](assets/images/alt-text-benefits.png
-    ```
-```md
-    ![alt text 2](assets/images/alt-text-main.png
-    ```
+![alttext1](assets/images/alt-text-benefits.png
+
+![alttext2](assets/images/alt-text-main.png
 
 ## Credits
 
