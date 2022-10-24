@@ -12,10 +12,13 @@ N/A
 ## Usage
 
 Index.html file and CSS style sheets control layout and aesthetics of page. This page is live at GitHub pages launched by user malxxy.
-
+<br>
 Link to live webpage: https://malxxy.github.io/red-challenge-1/ 
+<br>
 Link to GitHub repository: https://github.com/malxxy/red-challenge-1
+<br>
 Link to GitHub profile: https://github.com/malxxy 
+<br>
 
 Header:
 ![header](./assets/images/main-page.png)
