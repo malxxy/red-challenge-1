@@ -1,5 +1,5 @@
-# red-challenge-1
-Module 1 challenge for UC Berkeley Full Stack Development Boot Camp
+# Refactor-HTML-CSS-starter-code
+Refactor HTML and CSS starter code. Module 1 challenge for UC Berkeley Full Stack Development Boot Camp
 
 ## Description
 
@@ -13,9 +13,9 @@ N/A
 
 Index.html file and CSS style sheets control layout and aesthetics of page. This page is live at GitHub pages launched by user malxxy.
 <br>
-Link to live webpage: https://malxxy.github.io/red-challenge-1/ 
+Link to live webpage:  https://malxxy.github.io/refactor-HTML-CSS-starter-code/ 
 <br>
-Link to GitHub repository: https://github.com/malxxy/red-challenge-1
+Link to GitHub repository: https://github.com/malxxy/refactor-HTML-CSS-starter-code 
 <br>
 Link to GitHub profile: https://github.com/malxxy 
 <br>
