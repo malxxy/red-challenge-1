@@ -16,7 +16,6 @@ header {
 }
 
 /* Heading attributes in sequential order */
-
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -50,7 +49,7 @@ header div ul {
     list-style-type: none;
 }
 
-/* adjusted to right side  of display */
+/* adjusted to right side of display */
 header div ul li {
     display: inline-block;
     margin-left: 15px;
@@ -103,8 +102,8 @@ p {
     background-color: #2589bd;
 }
 
-/* Condensed class selectors */
-.benefit-lead, .benefit-brand, .benefit-cost {
+/* Condensed class selectors for Lead Generation, Brand Awareness, and Cost Management */
+.benefit-margin {
     margin-bottom: 32px;
     color: #ffffff;
 }
