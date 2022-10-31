@@ -115,8 +115,8 @@ p {
     max-width: 150px;
 }
 
-/* Condensed class selectors */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+/* Condensed class selectors for SEO, Online reputation management, and social media marketing */
+.section-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -125,9 +125,8 @@ p {
     color: #ffffff;
 }
 
-/* Condensed class selectors */
-
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+/* Condensed class selectors for SEO, online reputation management and social media marketing image selectors */
+.section-content img {
     max-height: 200px;
 }
 
