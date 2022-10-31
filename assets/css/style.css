@@ -109,8 +109,8 @@ p {
     color: #ffffff;
 }
 
-/* Condensed class selectors */
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+/* Condensed class selectors for benefits images */
+.benefit-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
